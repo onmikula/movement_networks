@@ -14,7 +14,7 @@ The script is organized into seven sections:
 6. Analysis of spatial separation of modules, including calculation of spatial separation index and visualisation of nest box possession by different modules across layers.
 7. Handling of layer-specific networks: subsetting, merging into summary networks and visualisation which may include interaction strength, module-membership and possibly additional information (e.g., sex of the individuals).
 
-When using these functions, please cite:
+**When using these functions, please cite:**
 - Mikula O, Macholán M, Ďureje Ľ, Hiadlovská Z, Daniszová K, Janotová K, 
 Vošlajerová Bímová B (2022) House mouse subspecies do differ in their social structure.
 
